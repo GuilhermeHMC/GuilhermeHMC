@@ -1,5 +1,5 @@
 # Guilherme H. M. Cardoso
-Software Engineering Graduate | IoT Enthusiast | Software QA Analyst | In the process of professional development, with a focus on Software Engineering, IoT, and QA.
+Software Engineering Graduate | Software QA Analyst | IoT Enthusiast | In the process of professional development, with a focus on Software Engineering and QA.
 
 # Welcome to my GitHub profile! 🎉
 
@@ -7,5 +7,5 @@ I am currently focused on automation and accessibility, aiming to create inclusi
 
 
 ## Contact
-- 📧 Email: guihmca@gmail.com
+- 📧 Email: guihmca@gmail.com, guilhermehmc@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/guilherme-henrique-marques-cardoso-a59808213/](https://www.linkedin.com/in/guilherme-henrique-marques-cardoso-a59808213/)
