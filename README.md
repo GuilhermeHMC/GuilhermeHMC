@@ -3,8 +3,8 @@ Software Engineering Graduate | Software QA Analyst | IoT Enthusiast | In the pr
 
 # Welcome to my GitHub profile! 🎉
 
-I am currently focused on automation and accessibility, aiming to create inclusive technological solutions. I am a recent graduate in **Software Engineering**, with experience in **QA** and developing open-source IoT projects with **Arduino** and **Node.js**.
-
+I am a recent graduate in **Software Engineering**, with experience in **QA** and developing open-source IoT projects with **ESP32** , **Arduino** and **Node.js**.
+I am currently focused on automation and accessibility, aiming to create inclusive technological solutions. 
 
 ## Contact
 - 📧 Email: guihmca@gmail.com, guilhermehmc@gmail.com
