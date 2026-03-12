@@ -3,7 +3,10 @@ Software Engineer | QA Analyst | Embedded Systems & Automation
 
 # About
 
-Software Engineer with over 15 years of experience in public sector IT, currently working as a Software Quality Assurance Analyst.
+Software Engineer with over 16 years of experience in public sector IT, currently working as a Software Quality Assurance 
+Analyst.
+
+My work focuses on software quality, test automation and system reliability.
 
 In parallel, I develop embedded automation solutions aimed at improving processes and delivering practical results.
 
